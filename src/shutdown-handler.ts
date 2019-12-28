@@ -1,6 +1,6 @@
 import * as process from 'process';
 
-import { ILogger } from '@generic-soft/logger/src//ilogger';
+import { ILogger } from '@willbell71/logger';
 import { IShutdownHandler } from './ishutdown-handler';
 import { TShutdownCallback } from './tshutdown-callback';
 

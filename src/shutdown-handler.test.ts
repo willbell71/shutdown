@@ -1,6 +1,4 @@
-import { ILogger } from '@generic-soft/logger/src/ilogger';
-import { ILogLine } from '@generic-soft/logger/src/ilog-line';
-import { Logger } from '@generic-soft/logger/src/logger';
+import { ILogger, ILogLine, Logger } from '@willbell71/logger';
 import { IShutdownHandler } from './ishutdown-handler';
 import { ShutdownHandler } from './shutdown-handler';
 
